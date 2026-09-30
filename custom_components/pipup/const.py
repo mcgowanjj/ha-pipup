@@ -126,4 +126,6 @@ POSITIONS: Final = {
     "bottom_right": 2,
     "bottom_left": 3,
     "center": 4,
+    "top_center": 5,
+    "bottom_center": 6,
 }

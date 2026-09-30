@@ -118,7 +118,9 @@
           "top_left": "Linksboven",
           "bottom_right": "Rechtsonder",
           "bottom_left": "Linksonder",
-          "center": "Midden"
+          "center": "Midden",
+          "top_center": "Midden boven",
+          "bottom_center": "Midden onder"
         }
       }
     },
@@ -140,7 +142,9 @@
         "top_left": "Linksboven",
         "bottom_right": "Rechtsonder",
         "bottom_left": "Linksonder",
-        "center": "Midden"
+        "center": "Midden",
+        "top_center": "Midden boven",
+        "bottom_center": "Midden onder"
       }
     },
     "camera_mode": {

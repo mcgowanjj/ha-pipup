@@ -32,6 +32,8 @@ show:
             - bottom_right
             - bottom_left
             - center
+            - top_center
+            - bottom_center
           translation_key: position
     muted:
       selector:

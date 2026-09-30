@@ -118,7 +118,9 @@
           "top_left": "Top left",
           "bottom_right": "Bottom right",
           "bottom_left": "Bottom left",
-          "center": "Center"
+          "center": "Center",
+          "top_center": "Top center",
+          "bottom_center": "Bottom center"
         }
       }
     },
@@ -140,7 +142,9 @@
         "top_left": "Top left",
         "bottom_right": "Bottom right",
         "bottom_left": "Bottom left",
-        "center": "Center"
+        "center": "Center",
+        "top_center": "Top center",
+        "bottom_center": "Bottom center"
       }
     },
     "camera_mode": {
